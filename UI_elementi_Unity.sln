@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_elementi_Unity", "Assembly-CSharp.csproj", "{9C7651C4-426A-4A0E-74FC-57BB015A0CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C7651C4-426A-4A0E-74FC-57BB015A0CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7651C4-426A-4A0E-74FC-57BB015A0CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7651C4-426A-4A0E-74FC-57BB015A0CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7651C4-426A-4A0E-74FC-57BB015A0CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
