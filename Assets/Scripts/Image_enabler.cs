@@ -14,6 +14,21 @@ public class Image_enabler : MonoBehaviour {
     public GameObject VariableImg;
     public Sprite[] ImgMas;
 	private bool vertiba;
+    public GameObject sizeSlider;
+    public GameObject rotSlider;
+
+    
+    public void changeSize()
+    {
+        float curentSize = sizeSlider.GetComponent<Slider>().value;
+        VariableImg.transform.localScale = new Vector2(1f * curentSize, 1f * curentSize);
+    }
+
+    public void changeRotation()
+    {
+        float curentRotation= rotSlider.GetComponent<Slider>().value;
+        VariableImg.transform.localRotation = Quaternion.Euler(0, 0, curentRotation * 360);
+    }
 
     public void dropdown(int skaitlis)
     {
