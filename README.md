@@ -12,13 +12,10 @@ projekts lai apgutu ui elementus Unity
 - [x] Toggle elementu lietojums
 - [x] Toggle group komponentes lietojums
 - [x] Drop Down elementu lietojums
-<<<<<<< HEAD
 - [x] Slider elementu lietojums
-=======
-- [ ] Slider elementu lietojums
->>>>>>> 1ede3dddd55cca481cb12409f983f1399eadf0e0
+- [x] Slider elementu lietojums
 - [x] Audio
-- [ ] Drag and Drop
-- [ ] Parslegsanas starp ainam
-- [ ] objektu generesana
-- [ ] export (.exe)
+- [x] Drag and Drop
+- [x] Parslegsanas starp ainam
+- [x] objektu generesana
+- [x] export (.exe)
